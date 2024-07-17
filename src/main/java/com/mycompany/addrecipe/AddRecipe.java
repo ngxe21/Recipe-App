@@ -1,4 +1,4 @@
-v/*
+/*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
@@ -11,6 +11,6 @@ package com.mycompany.addrecipe;
 public class AddRecipe {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Add recipe!");
     }
 }
